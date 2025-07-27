@@ -1,0 +1,54 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.env
+*.env
+.venv/
+venv/
+ENV/
+env/
+
+# VSCode / PyCharm / IDEs
+.vscode/
+.idea/
+
+# OS/System files
+Thumbs.db
+desktop.ini
+
+# Pip/virtualenv/cache
+*.log
+*.pot
+*.pyc
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Credentials & Keys
+*.json
+!form_templates/*.html  # allow HTML files explicitly
+!form_templates/*.css   # allow CSS too
+
+# Zip and archives
+*.zip
+*.tar.gz
+*.tar
+*.tgz
+
+# Docker
+*.pid
+*.sock
+
+# Temporary files
+*.bak
+*.tmp
+*.swp
+*~
+

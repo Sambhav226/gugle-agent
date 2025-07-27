@@ -1,0 +1,63 @@
+# app.yaml - Google App Engine Configuration
+# This file tells App Engine how to run your application.
+
+# Use a custom runtime to specify a Dockerfile
+runtime: custom
+env: flex # Use the Flexible Environment for custom runtimes
+
+# The entrypoint is now defined in your Dockerfile.
+# GAE will build and run the Docker image.
+
+# Define environment variables.
+# IMPORTANT: Replace "your_..." with your actual keys.
+# For better security in production, use Google Secret Manager.
+env_variables:
+  ENV: "production"
+  LIVEKIT_URL: wss://google-78a573z8.livekit.cloud
+  LIVEKIT_API_KEY: APIemzLJe7w652j
+  LIVEKIT_API_SECRET: QjzkY4eRs8YxOPo3mIkfEopxXSKyDWdlXRa60NKD7YA
+  LIVEKIT_SIP_URI: sip:6xhhqxjqs9b.sip.livekit.cloud
+
+  PINECONE_API_KEY: pcsk_6wiNh2_NVxQJXtDtMdc4TeFtgwSiT2nYzMBY57Rts51uJsdbzKTVLsP1FbjPzvjDnYZ1o6
+
+  COHERE_API_KEY: V5opD1DHzb5UKVKvL3ercfKYv5fqz4HA9ngiMd1d
+
+  PINECONE_ENVIRONMENT: "us-east-1"
+  PINECONE_INDEX_NAME: "farmer-voice-index"
+  PINECONE_NAMESPACE: farmer-rag"
+
+# Configure instance resources and scaling for the Flexible Environment
+resources:
+  cpu: 1
+  memory_gb: 1 # Increased memory slightly for the agent process
+  disk_size_gb: 10
+
+automatic_scaling:
+  min_num_instances: 1
+  max_num_instances: 5
+  cool_down_period_sec: 120 # Time to wait before scaling down
+  cpu_utilization:
+    target_utilization: 0.65
+
+# Updated Split Health Checks for GAE Flex
+# These replace the legacy 'health_check' section.
+# A liveness check determines if the container needs to be restarted.
+liveness_check:
+  path: "/" # The path for the liveness check request. Your Flask app has a '/' route.
+  check_interval_sec: 30
+  timeout_sec: 4
+  failure_threshold: 2 # Number of consecutive failures to be considered unhealthy.
+  success_threshold: 2 # Number of consecutive successes to be considered healthy.
+
+# A readiness check determines if the instance is ready to accept traffic.
+readiness_check:
+  path: "/" # The path for the readiness check request.
+  check_interval_sec: 5
+  timeout_sec: 4
+  failure_threshold: 2
+  success_threshold: 2
+  app_start_timeout_sec: 300 # How long to wait for the app to start before the first check.
+
+# Network settings can be configured here if needed
+# network:
+#   name: default

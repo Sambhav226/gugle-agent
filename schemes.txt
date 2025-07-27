@@ -1,0 +1,290 @@
+﻿Title: Pradhan Mantri Kisan Samman Nidhi (PM-KISAN)
+Description:
+ Pradhan Mantri Kisan Samman Nidhi (PM-KISAN) is a Central Sector Scheme by the Government of India to supplement the financial needs of all landholding farmers’ families. It provides direct income support of ₹6,000 per year (in three installments), directly transferred to the bank accounts of eligible farmers through Direct Benefit Transfer (DBT). The scheme aims to support farmers’ input requirements, promote agricultural productivity, reduce dependence on informal credit, and enhance family well-being.
+Relevant Sectors:
+ agriculture, farmer, support, benefit, rural, financial aid, rural economy, farmer welfare, direct benefit transfers, social security, crop production, income stabilization, government schemes
+Helps with:
+ financial support for farming, how to get subsidy for agriculture, schemes for irrigation and crop insurance, supplementing farm income, meeting input costs, reducing loan dependency, ensuring crop health, supporting small and marginal farmers, digital inclusion, timely crop planning
+Eligibility:
+All landholding farmer families who own cultivable land as per state/UT records.
+
+Institutional landholders and families with higher-income members (e.g. income tax payers, government officers, professionals) are excluded.
+
+Family defined as husband, wife, minor children.
+
+Documents Required:
+ Aadhaar Card, Landholding papers, Bank Account details
+Link: https://pmkisan.gov.in
+Title: Pradhan Mantri Krishi Sinchayee Yojana: Per Drop More Crop
+Description:
+ PMKSY: Per Drop More Crop, launched by the Department of Agriculture & Farmers Welfare, encourages water-use efficiency through micro-irrigation (drip and sprinkler systems). It supports micro-level water storage, water-saving, and management, enabling farmers to install irrigation and water conservation infrastructure. The aim is to increase cropped area under assured irrigation, enhance productivity and farm income, and promote scientific water management.
+Relevant Sectors:
+ agriculture, farmer, support, benefit, rural, financial aid, irrigation, climate resilience, water management
+Helps with:
+ how to get subsidy for agriculture, schemes for irrigation and crop insurance, government schemes for farmers, efficient irrigation, water conservation, enhancing crop productivity, reducing reliance on rainfall
+Eligibility:
+All farmers (citizens of India) in States & Union Territories are eligible.
+
+Subsidy applicable to maximum 5 hectares per beneficiary.
+
+Only BIS-marked components are eligible under the scheme.
+
+Aadhaar, bank account, land ownership required.
+
+Documents Required:
+ Aadhaar Card, Bank Account Details, Address Proof, Passport size photograph, Caste Certificate (if applicable), Land ownership documents, Domicile Certificate
+Link: https://pmksy.gov.in
+Title: Pradhan Mantri Fasal Bima Yojna (PMFBY)
+Description:
+ Launched in 2016, PMFBY provides affordable crop insurance and financial support to farmers against loss or damage due to natural calamities, pests, or diseases. The scheme offers comprehensive risk coverage for standing crops, post-harvest losses, and calamities, with affordable premiums and quick digital claim settlements.
+Relevant Sectors:
+ agriculture, farmer, support, benefit, rural, financial aid, crop insurance, risk management
+Helps with:
+ financial support for farming, rural development, insurance for crops lost due to disaster, pest, or disease, stabilizing farmer income, encouraging modern practices, crop diversification
+Eligibility:
+All farmers (including tenant and sharecropper) growing notified crops in notified areas.
+
+Must have insurable interest in the crop; land ownership/tenure proof required.
+
+Must apply within deadline; not already compensated for the same crop/event.
+
+Documents Required:
+ Photo, Bank passbook, Aadhaar/PAN/Voter ID, Land records, Declaration of crop sown
+Link: https://pmfby.gov.in
+Title: Pradhan Mantri Matsya Sampada Yojana (PMMSY)
+Description:
+ PMMSY aims for sustainable development of fisheries, doubling fisher incomes, modernizing processing/value chains, expanding fish farming, and boosting exports and domestic consumption. The scheme enables infrastructure development, adoption of new tech, value chain enhancement, and financial assistance through grants and subsidies.
+Relevant Sectors:
+ agriculture, fisheries, rural support, financial aid, infrastructure, aquaculture
+Helps with:
+ schemes for irrigation and crop insurance, government support for fishers, subsidies for fish farmers, infrastructure modernization, processing and cold chain development, market linkages
+Eligibility:
+Fishers, fish farmers, fish workers/vendors, cooperatives, SHGs, federations, private entities, entrepreneurs, FFPOs, SC/ST/Women/Differently abled, state/central/UT entities.
+
+Documents Required:
+ Aadhaar, PAN, Bank Account, Project Report, Land/lease/ownership documents, Registration/firm documents
+Link: https://pmmsy.dof.gov.in (official fisheries ministry site with PMMSY section)
+Title: National Agriculture Market (e-NAM)
+Description:
+ e-NAM is a pan-India electronic trading portal that networks existing APMC mandis for online commodity trading, facilitating ‘One Nation One Market’. It enables farmers and traders to discover prices in a transparent manner, access wider markets, and benefit from online payments, e-bidding, and standardization.
+Relevant Sectors:
+ agriculture, farmer, support, rural, financial aid, digital trade, market linkages, logistics
+Helps with:
+ how to get subsidy for agriculture, efficient market access, transparent trading, national price discovery, digital payments, real-time information
+Eligibility:
+Farmers, traders, and buyers registered under integrated APMCs/mandis
+
+State government must fulfill core market reforms (single license, e-trade legal, single-point market fee)
+
+Market/mandi infrastructure meets minimum standards
+
+Documents Required:
+ Aadhaar Card, Bank Account, Market/mandi registration
+Link: https://enam.gov.in
+Title: Krishonnati Yojana - Sub Mission On Seed And Planting Material (SMSP)
+Description:
+ SMSP under the Green Revolution Krishonnati Yojana increases availability and productivity of quality seeds and planting material, supports certified seed production, seed infrastructure, promotes new varieties/technologies, and ensures compliance with quality standards. It assists both public and private sector seed producers, encourages varietal replacement, and distributes information to farmers.
+Relevant Sectors:
+ agriculture, farmer, support, seed technology, rural, financial aid, innovation, biotechnology
+Helps with:
+ government schemes for farmers, financial support for farming, seed subsidies, boosting productivity, modernizing seed infrastructure
+Eligibility:
+Farmers, state seed corporations, private seed companies, and recognized agencies engaged in seed production/distribution, having valid documents/landholding.
+
+Farmers with B1 khasra/loan book and Aadhaar are eligible for seed village program.
+
+Documents Required:
+ Farmer B1/khasra/loan book, Aadhaar, Bank Passbook
+Link: https://agricoop.nic.in/en/krishonnati-yojana
+Title: National Agriculture Insurance Scheme (NAIS)
+Description:
+ NAIS provides comprehensive crop insurance against natural calamities, pests, and diseases for food crops, oilseeds, and selected commercial crops. It ensures farm income stability, encourages risk management, supports the adoption of modern farming, and provides subsidized premiums for small and marginal farmers.
+Relevant Sectors:
+ agriculture, farmer, support, insurance, rural, financial aid, risk management, disaster mitigation
+Helps with:
+ schemes for rural development, financial support for farming, crop insurance, risk reduction, quick claim settlements, wide crop coverage
+Eligibility:
+Loanee farmers (who have taken agricultural loans) are compulsorily covered.
+
+Non-loanee farmers can apply voluntarily before season deadline.
+
+Applicable to all notified crops and regions as declared by government.
+
+Documents Required:
+ Aadhaar/ID, land/tenancy proof, crop-sowing certificate (if required), bank account
+Link: https://www.aicofindia.com/AICEng/Pages/Agri_Insurance_Schemes
+Title: Rashtriya Krishi Vikas Yojana (RKVY)
+Description:
+ A flagship scheme to boost agricultural and allied sector growth by providing flexible funding to states for planning and implementing projects related to infrastructure, tech adoption, value chains, and research, incentivizing higher investment in agriculture to increase productivity and rural incomes.
+Relevant Sectors:
+ agriculture, rural development, infrastructure, farming, agri-business
+Helps with:
+ financial support for farming projects, subsidies for agri-infrastructure, modernization, comprehensive development, resource optimization
+Eligibility:
+State governments/UTs eligible for central assistance based on submitted agriculture plans aligned with RKVY guidelines.
+
+Projects must align with holistic agriculture development objectives.
+
+Link: https://rkvy.nic.in
+Title: Soil Health Card Scheme
+Description:
+ Introduced in 2015, the scheme provides farmers with customized Soil Health Cards, indicating soil nutrient and fertilizer recommendations, helping optimize fertilizer use and maintain soil fertility for sustainable yield improvement.
+Relevant Sectors:
+ agriculture, environment, soil health, resource management
+Helps with:
+ soil testing, efficient fertilizer use, nutrient management, boosting productivity, sustainable farming
+Eligibility:
+All farmers (individual or group) registered with State Agriculture Departments are eligible for soil sample testing and card issuance.
+
+Link: https://soilhealth.dac.gov.in
+Title: Paramparagat Krishi Vikas Yojana (PKVY)
+Description:
+ PKVY promotes and supports chemical-free organic farming through cluster formation, participatory guarantee certification, and capacity building; it supplies organic inputs and market linkages, aiming for long-term ecological and economic gains.
+Relevant Sectors:
+ organic farming, sustainability, rural livelihood, agro-ecology
+Helps with:
+ organic certification, support for chemical-free practices, market access for organic produce, farmer clusters, capacity building
+Eligibility:
+Farmers/Groups of farmers/SHGs/Clusters registered for organic conversion.
+
+Participants should agree to follow organic practices for three years.
+
+Link: https://pkvy.gov.in
+Title: Kisan Credit Card (KCC) Scheme
+Description:
+ KCC offers easy and affordable short-term credit for crop cultivation, allied agricultural activities, and consumption needs, with lower interest rates, flexible repayment, and built-in insurance coverage, helping farmers avoid unmanageable debt.
+Relevant Sectors:
+ credit, finance, agriculture, banking
+Helps with:
+ easy and affordable loans, financial inclusion, crop production, working capital needs, allied sector support
+Eligibility:
+All farmers (individuals/joint/tenant/sharedcroppers/oral lessees) engaged in agriculture, eligible for banking credit.
+
+Documentation proving land engagement and identity necessary.
+
+Link: https://www.pmkisan.gov.in/Documents/KCC.pdf
+Title: National Mission for Sustainable Agriculture (NMSA)
+Description:
+ NMSA aims for productivity, sustainability, and climate resilience via location-specific interventions in water-use efficiency, soil health, conservation agriculture, and integrated farming. It targets climate adaptation and resource optimization in Indian agriculture.
+Relevant Sectors:
+ agriculture, sustainability, adaptation, climate change, environment
+Helps with:
+ sustainable farming, water management, integrated farming systems, capacity building, resource conservation
+Eligibility:
+Farmers and entities implementing sustainable farming practices within defined project plans and pilot districts.
+
+Link: https://nmsa.dac.gov.in
+Title: Gramin Bhandaran Yojana (Rural Godown Scheme)
+Description:
+ Provides assistance for the creation and renovation of rural storage infrastructure (godowns) to tackle post-harvest losses and enable farmers to store/agricultural produce for better market timing and value realization.
+Relevant Sectors:
+ infrastructure, storage, logistics, agriculture, warehousing
+Helps with:
+ post-harvest management, loss reduction, better price realization, capacity building
+Eligibility:
+Individuals, farmers, groups, cooperatives, NGOs, SHGs, and private/public organizations eligible to set up rural godowns.
+
+Link: https://nhb.gov.in/rural-godown-scheme/
+Title: National Food Security Mission (NFSM)
+Description:
+ NFSM seeks to increase the production of rice, wheat, pulses, coarse cereals, and commercial crops through improved inputs, seed production, soil restoration, and dissemination of modern technology for sustainable productivity.
+Relevant Sectors:
+ agriculture, food security, productivity, rural, development
+Helps with:
+ seed/input subsidies, yield improvement, new technology, food security enhancement
+Eligibility:
+Farmers engaged in growing identified crops in states/districts covered under NFSM.
+
+Implementation through state agri departments via farmer outreach and selection.
+
+Link: https://nfsm.gov.in
+Title: Mission for Integrated Development of Horticulture (MIDH)
+Description:
+ MIDH fosters all-round growth in horticulture by supporting crop production, post-harvest management, processing, and marketing of fruits, vegetables, flowers, and plantation crops, emphasizing hi-tech and cluster approaches.
+Relevant Sectors:
+ horticulture, farming, agri-business, value chain
+Helps with:
+ subsidies for horticultural crops, post-harvest infrastructure, marketing support, technology promotion
+Eligibility:
+Farmers, individual entrepreneurs, registered FPOs, cooperatives, and SHGs implementing horticulture projects per MIDH norms.
+
+Link: https://midh.gov.in
+Title: National Livestock Mission (NLM)
+Description:
+ NLM catalyzes sustainable livestock sector growth by supporting development, feed/fodder, entrepreneurship, and risk management, focusing on breed improvement, productivity, and market-oriented production.
+Relevant Sectors:
+ animal husbandry, dairy, livestock, rural economy
+Helps with:
+ livestock subsidies, breed improvement, fodder cultivation, risk mitigation, veterinary capacity
+Eligibility:
+Farmers, SHGs, FPOs, entrepreneurs, cooperatives, state departments involved in livestock development are eligible per component-specific norms.
+
+Link: https://nlm.udyamimitra.in
+Title: Pradhan Mantri Kisan Maan-Dhan Yojana (PM-KMY)
+Description:
+ PM-KMY is a pension scheme for small/marginal farmers providing ₹3,000 per month after age 60, funded by matching government and beneficiary contributions, ensuring social security in rural old age.
+Relevant Sectors:
+ social security, agriculture, rural welfare, financial inclusion
+Helps with:
+ retirement pension, financial security, social protection, old-age dignity
+Eligibility:
+Small and marginal farmers aged 18–40 with cultivable land up to 2 hectares.
+
+Not covered by other pension schemes/government employment.
+
+Link: https://maandhan.in
+Title: National Mission on Agricultural Extension & Technology (NMAET)
+Description:
+ NMAET enhances agricultural extension through tech promotion, reforms, and capacity building, empowering farmers with know-how, timely updates, and access to modern practices for higher incomes and productivity.
+Relevant Sectors:
+ technology, extension, knowledge transfer, capacity building, agriculture
+Helps with:
+ farmer training, tech adoption, extension services, information support
+Eligibility:
+Farmers registered with agri departments, FPOs, extension agents, and stakeholders enrolled for extension activities.
+
+Link: http://nmaet.gov.in
+Title: Sub-Mission on Agricultural Mechanization (SMAM)
+Description:
+ SMAM promotes use of modern agri equipment among small/marginal farmers through subsidies, boosting productivity and labor efficiency via mechanization and innovation.
+Relevant Sectors:
+ technology, mechanization, innovation, agriculture
+Helps with:
+ machinery subsidies, access to modern equipment, reduction in labor cost, operational efficiency
+Eligibility:
+Farmers/groups/SHGs/cooperatives, especially small/marginal, adopting eligible machinery as per guidelines.
+
+Link: https://agrimachinery.nic.in
+Title: Pradhan Mantri Annadata Aay SanraksHan Abhiyan (PM-AASHA)
+Description:
+ PM-AASHA ensures price support for crops via PSS, PDPS, and PPSS, providing income security to farmers and encouraging crop diversification by minimizing market risks.
+Relevant Sectors:
+ pricing, market intervention, agriculture, income stabilization
+Helps with:
+ price guarantee, loss minimization, income risk management, market intervention
+Eligibility:
+Farmers cultivating crops covered under specific price support and procurement notifications.
+
+Link: https://dummy-link-aasha.gov.in
+Title: Agriculture Infrastructure Fund (AIF)
+Description:
+ AIF is a debt financing facility for investments in post-harvest management and community farming infrastructure, helping farmers, FPOs, and other stakeholders create warehouses, cold chains, and processing units with concessional loans.
+Relevant Sectors:
+ finance, infrastructure, value addition, agriculture, rural economy
+Helps with:
+concessional loans, infrastructure development, value chain improvement, agri-enterprise support
+Eligibility:
+Farmers, FPOs, cooperatives, agri-entrepreneurs, start-ups, and agri-tech companies with eligible projects per AIF guidelines.
+
+Link: https://agriinfra.dac.gov.in
+Title: Atal Bhujal Yojana
+Description:
+ Atal Bhujal Yojana promotes sustainable groundwater management in water-stressed areas through community participation, convergence of water-related schemes, and adoption of scientific planning, ensuring water security and resilient farming.
+Relevant Sectors:
+ water management, sustainability, environment, agriculture
+Helps with:
+ groundwater recharge, water-efficient farming, resource planning, community mobilization
+Eligibility:
+Targeted at water-stressed blocks/districts; gram panchayats, rural communities, state agencies participating in water management programs.
+
+Link: https://ataljal.mowr.gov.in

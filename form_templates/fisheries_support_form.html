@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Fisheries Support Application</title>
+    <link rel="stylesheet" href="form_style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <h1>Fisheries & Aquaculture Development Scheme (PMMSY)</h1>
+        <form id="govForm">
+            <h2>Applicant Information</h2>
+            <label for="applicant_name">Applicant/Group Name:</label>
+            <input type="text" id="applicant_name" name="applicant_name" required>
+
+            <label for="email">Email Address:</label>
+            <input type="email" id="email" name="email" required>
+
+            <label for="applicant_type">Applicant Type:</label>
+            <select id="applicant_type" name="applicant_type" required>
+                <option value="">--Select Type--</option>
+                <option value="Individual Fisher">Individual Fisher</option>
+                <option value="Fish Farmer">Fish Farmer</option>
+                <option value="Self Help Group (SHG)">Self Help Group (SHG)</option>
+                <option value="Entrepreneur">Entrepreneur</option>
+                <option value="Other">Other</option>
+            </select>
+
+            <h2>Project Details</h2>
+            <label for="project_details">Brief Description of Project (e.g., New pond construction, cage installation):</label>
+            <textarea id="project_details" name="project_details" required></textarea>
+
+            <label for="location">Project Location (Village/District):</label>
+            <input type="text" id="location" name="location" required>
+            
+            <div class="button-container">
+                <button type="submit">Submit Fisheries Application</button>
+            </div>
+        </form>
+    </div>
+</body>
+</html>
